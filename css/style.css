@@ -56,9 +56,11 @@ header {
     display: flex;
     flex-direction: column;
   }
+
   #navbar ul li {
     width: auto;
   }
+  
   #navbar ul {
     height: 207px;
     overflow-y: scroll;
