@@ -3,6 +3,8 @@
 This code is a replica of the trial code of Microverse admission process,
 this project is going to be used to learn how to give a proper code review.
 
+![img](./src/screenshot.png)
+
 ## Learning objectives
 
 - Apply best practices in HTML code.
